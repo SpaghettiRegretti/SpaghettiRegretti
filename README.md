@@ -52,13 +52,6 @@ I use this space to learn, build, and experiment with software development, data
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpaghettiRegretti&show_icons=true)
-
-> Feel free to explore my repositories and see my learning journey.
-
----
-
 ## 🤝 Let’s Connect
 - GitHub: [@SpaghettiRegretti](https://github.com/SpaghettiRegretti)
 - LinkedIn : [Angela-Echa-Naresti](https://www.linkedin.com/in/angela-echa-naresti-aa40a732a/details/education/)
